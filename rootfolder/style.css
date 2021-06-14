@@ -1,0 +1,32 @@
+/*
+*{
+    margin: 0;
+    padding: 0;
+}
+*/
+body {
+    background-color: #f4f4f4;
+    color: #555;
+    font: normal 16px Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+}
+
+.container{
+    width: 80%;
+    margin:auto;
+}
+
+a:hover{
+    color: blue;
+}
+
+a:active{
+    color: green;
+}
+
+.box-1{
+    background-color: #333;
+    color: wheat;
+    border: 5px red solid;
+    padding: 10px 10%;
+}
